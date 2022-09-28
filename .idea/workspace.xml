@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6849a85e-daee-4487-9dee-c9e0abd89ff3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/REQUESTED" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/LUT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/console_scripts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/pil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/pure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/styledpil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/styles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/styles/colormasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/styles/moduledrawers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/svg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/release.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/svg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_qrcode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_release.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/share/man/man1/qr.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/96_September_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/96_September_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/97_September_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/97_September_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/98_August_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/98_August_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/99_August_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/99_August_19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/welcome_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/welcome_page.py" afterDir="false" />
-    </list>
+    <list default="true" id="6849a85e-daee-4487-9dee-c9e0abd89ff3" name="Changes" comment="Share button" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,15 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,7 +51,16 @@
       <option name="presentableId" value="Default" />
       <updated>1664163599145</updated>
       <workItem from="1664163603171" duration="2050000" />
+      <workItem from="1664378508670" duration="302000" />
     </task>
+    <task id="LOCAL-00001" summary="Share button">
+      <created>1664378670630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664378670630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Share button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Share button" />
   </component>
 </project>
