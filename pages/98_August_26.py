@@ -145,9 +145,15 @@ link = 'https://itamita-newsletter-welcome-page-5jp2re.streamlitapp.com/August_2
 
 st.write('Share this page using this link: '+ link+ ", or using the QR-code:")
 
-img = qrcode.make(link)
+img_2 = qrcode.make(link)
 
-st.image(img)
+img_byte_arr = io.BytesIO()
+
+img_2.save(img_byte_arr, format='PNG')
+
+img_byte_arr = img_byte_arr.getvalue()
+
+st.image(img_byte_arr)
 
 st.subheader('*Feedback*')
 
