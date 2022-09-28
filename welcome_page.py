@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image
+import qrcode
 
 
 st.header('ITAM Newsletter for Finance and More')
@@ -38,4 +39,12 @@ st.markdown("""We will be grateful for any feedback. If you have any criticism o
  and we will immediately fix the problem found.""")
 
 st.subheader('*SHARE WITH YOUR FRIENDS*')
+
+link = 'https://itamita-newsletter-welcome-page-5jp2re.streamlitapp.com/'
+
+st.write('Share this page using this link: '+ link+ ", or using the QR-code:")
+
+img = qrcode.make(link)
+
+st.image(img)
 

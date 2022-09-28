@@ -1,14 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6849a85e-daee-4487-9dee-c9e0abd89ff3" name="Changes" comment="" />
+    <list default="true" id="6849a85e-daee-4487-9dee-c9e0abd89ff3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode-7.3.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/LUT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/console_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/pil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/pure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/styledpil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/styles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/styles/colormasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/styles/moduledrawers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/image/svg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/release.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/svg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_qrcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_release.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/tests/test_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/python3.9/site-packages/qrcode/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/man/man1/qr.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/96_September_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/96_September_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/97_September_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/97_September_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/98_August_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/98_August_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/99_August_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/99_August_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/welcome_page.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="84ede21a-6eab-42fe-b6e1-53d8f3985ff6" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,7 +79,8 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664163599145</updated>
-      <workItem from="1664163603171" duration="222000" />
+      <workItem from="1664163603171" duration="2050000" />
     </task>
     <servers />
   </component>
